@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@coreui/coreui@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@coreui/coreui/-/coreui-3.0.0.tgz#b18dd62dddb688b32237a33f60a8e56fed9a1da7"
+  integrity sha512-D62oLjBM3xqipQwwa29bYsEo3LUhge0Ub2tSrtXONz71oGmMxMNCjmYebkig0dM+iYuekYfusjeAP8sxpbRlHA==
+
 ansi-regex@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-4.1.0.tgz#8b9f8f08cf1acb843756a839ca8c7e3168c51997"
