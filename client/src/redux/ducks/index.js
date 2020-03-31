@@ -1,1 +1,3 @@
-export { default as exampleState } from "./example"
+export { default as playerState } from "./players"
+
+export { default as productState } from "./products"

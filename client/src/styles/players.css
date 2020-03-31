@@ -1,0 +1,10 @@
+.athletes img {
+  width: 160px;
+  height: 200px;
+  padding: 15px;
+}
+
+.athletes {
+  display: flex;
+  flex-direction: row;
+}

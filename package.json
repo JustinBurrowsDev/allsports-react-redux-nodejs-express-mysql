@@ -16,10 +16,14 @@
   "homepage": "https://github.com/PC-Fullstack-Spring-2020/boilerpolate#readme",
   "dependencies": {
     "@coreui/coreui": "^3.0.0",
+    "axios": "^0.19.2",
     "concurrently": "^5.1.0",
     "config": "^3.3.0",
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "reactstrap": "^8.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2"
   },
   "boilerplate": {
     "name": "boilerplate",
