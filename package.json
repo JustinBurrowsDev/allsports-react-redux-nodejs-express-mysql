@@ -18,7 +18,7 @@
     "@coreui/coreui": "^3.0.0",
     "axios": "^0.19.2",
     "concurrently": "^5.1.0",
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "reactstrap": "^8.4.1",
